@@ -91,6 +91,5 @@ lane detection
 
 If you have any suggestions about papers, feel free to mail me :)
 
-- [e-mail](mailto:1609951733@qq.com)
 - [blog](http://www.cverblog.cn/)
 - [pull](https://github.com/amusi/awesome-lane-detection/pulls)
