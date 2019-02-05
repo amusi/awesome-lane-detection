@@ -3,8 +3,8 @@ lane detection
 
 [Paper](#Paper)
 
+- [2019](#2019)
 - [2018](#2018)
-
 - [2017](#2017)
 
 [Code](#Code)
@@ -14,6 +14,10 @@ lane detection
 [Dateset](#Datasets)
 
 # Paper
+
+## 2019
+
+[《End-to-end Lane Detection through Differentiable Least-Squares Fitting》](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End)
 
 ## 2018
 
@@ -54,6 +58,8 @@ lane detection
 [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPGNet_Vanishing_Point_ICCV_2017_paper.html) ICCV 2017 [github](https://github.com/SeokjuLee/VPGNet)
 
 # Code
+
+https://github.com/wvangansbeke/LaneDetection_End2End
 
 <https://github.com/georgesung/advanced_lane_detection>
 
