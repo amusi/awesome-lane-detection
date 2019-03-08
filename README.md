@@ -17,6 +17,8 @@ lane detection
 
 ## 2019
 
+[《Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks》](https://arxiv.org/abs/1903.02193)
+
 [《End-to-end Lane Detection through Differentiable Least-Squares Fitting》](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End)
 
 ## 2018
