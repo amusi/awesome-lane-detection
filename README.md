@@ -22,6 +22,7 @@ lane detection
 [《End-to-end Lane Detection through Differentiable Least-Squares Fitting》](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End)
 
 ## 2018
+[《Aerial LaneNet: Lane Marking Semantic Segmentation in Aerial Imagery using Wavelet-Enhanced Cost-sensitive Symmetric Fully Convolutional Neural Networks》](https://arxiv.org/pdf/1803.06904v2.pdf)
 
 [《End to End Video Segmentation for Driving : Lane Detection For Autonomous Car》](https://arxiv.org/abs/1812.05914)
 
