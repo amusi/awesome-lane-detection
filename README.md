@@ -17,6 +17,12 @@ lane detection
 
 ## 2019
 
+[《Agnostic Lane Detection》](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection)
+
+[《Deep Multi-Sensor Lane Detection》](https://arxiv.org/abs/1905.01555) IROS2018
+
+[《Enhanced free space detection in multiple lanes based on single CNN with scene identification》](https://arxiv.org/abs/1905.00941) IV2019 [github](https://github.com/fabvio/ld-lsi/)
+
 [《Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks》](https://arxiv.org/abs/1903.02193)
 
 [《End-to-end Lane Detection through Differentiable Least-Squares Fitting》](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End)
