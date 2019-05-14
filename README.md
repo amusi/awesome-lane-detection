@@ -17,6 +17,8 @@ lane detection
 
 ## 2019
 
+[《FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network》](https://arxiv.org/abs/1905.04354)
+
 [《Agnostic Lane Detection》](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection)
 
 [《Deep Multi-Sensor Lane Detection》](https://arxiv.org/abs/1905.01555) IROS2018
