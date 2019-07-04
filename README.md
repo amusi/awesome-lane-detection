@@ -17,6 +17,10 @@ lane detection
 
 ## 2019
 
+[Lane Detection and Classification using Cascaded CNNs](https://arxiv.org/abs/1907.01294)  Eurocast 2019
+
+[Driver Behavior Analysis Using Lane Departure Detection Under Challenging Conditions](https://arxiv.org/abs/1906.00093)
+
 [《FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network》](https://arxiv.org/abs/1905.04354)
 
 [《Agnostic Lane Detection》](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection)
