@@ -17,6 +17,8 @@ lane detection
 
 ## 2019
 
+[Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)  MMSP 2019
+
 [Lane Detection and Classification using Cascaded CNNs](https://arxiv.org/abs/1907.01294)  Eurocast 2019
 
 [Driver Behavior Analysis Using Lane Departure Detection Under Challenging Conditions](https://arxiv.org/abs/1906.00093)
