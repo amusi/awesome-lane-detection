@@ -11,11 +11,13 @@ lane detection
 
 [Blog](#Blog)
 
-[Dateset](#Datasets)
+[Datasets](#Datasets)
 
 # Paper
 
 ## 2019
+
+[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  [github](https://github.com/cardwing/Codes-for-Lane-Detection)  ICCV 2019
 
 [Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)  MMSP 2019
 
@@ -75,6 +77,10 @@ lane detection
 
 # Code
 
+<https://github.com/cardwing/Codes-for-Lane-Detection>
+
+<https://github.com/karstenBehrendt/unsupervised_llamas>
+
 https://github.com/wvangansbeke/LaneDetection_End2End
 
 <https://github.com/georgesung/advanced_lane_detection>
@@ -108,6 +114,8 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 [tusimple.ai](http://benchmark.tusimple.ai/#/t/1)
 
 [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347)
+
+[The Lane Marker Dataset](<https://unsupervised-llamas.com/llamas/>)
 
 # Contact & Feedback
 
