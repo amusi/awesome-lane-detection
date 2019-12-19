@@ -27,7 +27,7 @@ lane detection
 
 [Driver Behavior Analysis Using Lane Departure Detection Under Challenging Conditions](https://arxiv.org/abs/1906.00093)
 
-[FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354)
+[FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354)  CVPR 2019
 
 [Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection)
 
