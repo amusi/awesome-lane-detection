@@ -3,6 +3,7 @@ lane detection
 
 [Paper](#Paper)
 
+- [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
 - [2017](#2017)
@@ -14,6 +15,10 @@ lane detection
 [Datasets](#Datasets)
 
 # Paper
+
+## 2020
+
+[Multi-lane Detection Using Instance Segmentation and Attentive Voting](https://arxiv.org/abs/2001.00236)   ICCAS 2019 
 
 ## 2019
 
