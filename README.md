@@ -1,5 +1,7 @@
 # awesome-lane-detection
-lane detection
+Lane Detection
+
+![](img/Lane_Detection_Demo.jpg)
 
 [Paper](#Paper)
 
@@ -84,6 +86,8 @@ lane detection
 
 # Code
 
+[Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
+
 <https://github.com/cardwing/Codes-for-Lane-Detection>
 
 <https://github.com/karstenBehrendt/unsupervised_llamas>
@@ -122,7 +126,13 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 # Datasets
 
-[tusimple.ai](http://benchmark.tusimple.ai/#/t/1)
+[TuSimple](https://github.com/TuSimple/tusimple-benchmark)
+
+[CULane](https://xingangpan.github.io/projects/CULane.html)
+
+[BDD100K](http://bdd-data.berkeley.edu/)
+
+[Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth)
 
 [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347)
 
