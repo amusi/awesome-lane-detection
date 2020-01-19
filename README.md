@@ -10,7 +10,7 @@ lane detection
 
 [Code](#Code)
 
-[Blog](#Blog)
+[Blog/Tutorial](#Blog/Tutorial)
 
 [Datasets](#Datasets)
 
@@ -108,13 +108,17 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 <https://github.com/shawshany/Advance_LaneFinding>
 
-# Blog
+# Blog/Tutorial
 
 [Lane Detection with Deep Learning (Part 1)](https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7)
 
 [Simple Lane Detection with OpenCV](https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0)
 
+[Finding Lane Lines — Simple Pipeline For Lane Detection](https://towardsdatascience.com/finding-lane-lines-simple-pipeline-for-lane-detection-d02b62e7572b)
+
 [Building a lane detection system using Python 3 and OpenCV](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0)
+
+[Tutorial: Build a lane detector](https://towardsdatascience.com/tutorial-build-a-lane-detector-679fd8953132)
 
 # Datasets
 
