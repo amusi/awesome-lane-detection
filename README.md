@@ -20,7 +20,9 @@ Lane Detection
 
 ## 2020
 
-[Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer](https://arxiv.org/abs/2002.01177)  submitted to IV 2020 
+[Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)
+
+[Better-CycleGAN + ERFNet: Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer](https://arxiv.org/abs/2002.01177)  submitted to IV 2020 
 
 [Multi-lane Detection Using Instance Segmentation and Attentive Voting](https://arxiv.org/abs/2001.00236)   ICCAS 2019 
 
