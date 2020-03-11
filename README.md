@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks](https://arxiv.org/abs/2003.04404) [github](https://github.com/rolandying/FusionLane)
+
 [PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)  [github](https://github.com/koyeongmin/PINet)
 
 [Better-CycleGAN + ERFNet: Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer](https://arxiv.org/abs/2002.01177)  submitted to IV 2020 
