@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset)
+
 [Detecting Lane and Road Markings at A Distance with Perspective Transformer Layers](https://arxiv.org/abs/2003.08550)
 
 [Semi-Local 3D Lane Detection and Uncertainty Estimation](https://arxiv.org/abs/2003.05257)
@@ -145,6 +147,8 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 [Caltech](http://www.mohamedaly.info/datasets/caltech-lanes)
 
 [VPGNet](https://github.com/SeokjuLee/VPGNet#vpgnet-dataset)
+
+[3D Lane Synthetic Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) 
 
 [DIML](https://diml.yonsei.ac.kr/dataset/)
 
