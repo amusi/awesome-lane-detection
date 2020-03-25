@@ -144,6 +144,8 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 [Caltech](http://www.mohamedaly.info/datasets/caltech-lanes)
 
+[VPGNet](https://github.com/SeokjuLee/VPGNet#vpgnet-dataset)
+
 [DIML](https://diml.yonsei.ac.kr/dataset/)
 
 [Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth)
