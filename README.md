@@ -20,6 +20,10 @@ Lane Detection
 
 ## 2020
 
+[Detecting Lane and Road Markings at A Distance with Perspective Transformer Layers](https://arxiv.org/abs/2003.08550)
+
+[Semi-Local 3D Lane Detection and Uncertainty Estimation](https://arxiv.org/abs/2003.05257)
+
 [FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks](https://arxiv.org/abs/2003.04404) [github](https://github.com/rolandying/FusionLane)
 
 [PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)  [github](https://github.com/koyeongmin/PINet)
