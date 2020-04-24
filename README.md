@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet)  [github](https://github.com/lucastabelini/PolyLaneNet)
+
 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304)  [github](https://github.com/cardwing/Codes-for-IntRA-KD)  CVPR 2020
 
 [Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset)
