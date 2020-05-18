@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
+
 [Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757) 
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet)  [github](https://github.com/lucastabelini/PolyLaneNet)
