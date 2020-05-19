@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[ E2E-LMD: End-to-End Lane Marker Detection via Row-wise Classification](https://arxiv.org/abs/2005.08630)
+
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
 [Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757) 
