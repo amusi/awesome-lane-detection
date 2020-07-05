@@ -20,17 +20,17 @@ Lane Detection
 
 ## 2020
 
-[ E2E-LMD: End-to-End Lane Marker Detection via Row-wise Classification](https://arxiv.org/abs/2005.08630)
+[E2E-LMD: End-to-End Lane Marker Detection via Row-wise Classification](https://arxiv.org/abs/2005.08630)
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757) 
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection)  ECCV 2020
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet)  [github](https://github.com/lucastabelini/PolyLaneNet)
 
 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304)  [github](https://github.com/cardwing/Codes-for-IntRA-KD)  CVPR 2020
 
-[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset)
+[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  [github](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset)  ECCV 2020
 
 [Detecting Lane and Road Markings at A Distance with Perspective Transformer Layers](https://arxiv.org/abs/2003.08550)
 
@@ -148,25 +148,22 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 # Datasets
 
-[TuSimple](https://github.com/TuSimple/tusimple-benchmark)
+- [TuSimple](https://github.com/TuSimple/tusimple-benchmark)
+- [CULane](https://xingangpan.github.io/projects/CULane.html)
 
-[CULane](https://xingangpan.github.io/projects/CULane.html)
+- [BDD100K](http://bdd-data.berkeley.edu/)
+- [Caltech](http://www.mohamedaly.info/datasets/caltech-lanes)
 
-[BDD100K](http://bdd-data.berkeley.edu/)
+- [VPGNet](https://github.com/SeokjuLee/VPGNet#vpgnet-dataset)
 
-[Caltech](http://www.mohamedaly.info/datasets/caltech-lanes)
+- [3D Lane Synthetic Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) 
+- [DIML](https://diml.yonsei.ac.kr/dataset/)
 
-[VPGNet](https://github.com/SeokjuLee/VPGNet#vpgnet-dataset)
+- [Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth)
 
-[3D Lane Synthetic Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) 
+- [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347)
 
-[DIML](https://diml.yonsei.ac.kr/dataset/)
-
-[Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth)
-
-[A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347)
-
-[The Lane Marker Dataset](<https://unsupervised-llamas.com/llamas/>)
+- [The Lane Marker Dataset](<https://unsupervised-llamas.com/llamas/>)
 
 # Contact & Feedback
 
