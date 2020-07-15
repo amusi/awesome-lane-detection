@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[Synthetic-to-Real Domain Adaptation for Lane Detection](https://arxiv.org/abs/2007.04023)
+
 [E2E-LMD: End-to-End Lane Marker Detection via Row-wise Classification](https://arxiv.org/abs/2005.08630)
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
