@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs](https://arxiv.org/abs/2008.03922)
+
 [Heatmap-based Vanishing Point boosts Lane Detection](https://arxiv.org/abs/2007.15602)
 
 [Synthetic-to-Real Domain Adaptation for Lane Detection](https://arxiv.org/abs/2007.04023)
