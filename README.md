@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor](https://arxiv.org/abs/2008.06204)
+
 [Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs](https://arxiv.org/abs/2008.03922)
 
 [Heatmap-based Vanishing Point boosts Lane Detection](https://arxiv.org/abs/2007.15602)
@@ -156,20 +158,15 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark)
 - [CULane](https://xingangpan.github.io/projects/CULane.html)
-
 - [BDD100K](http://bdd-data.berkeley.edu/)
 - [Caltech](http://www.mohamedaly.info/datasets/caltech-lanes)
-
 - [VPGNet](https://github.com/SeokjuLee/VPGNet#vpgnet-dataset)
-
 - [3D Lane Synthetic Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) 
 - [DIML](https://diml.yonsei.ac.kr/dataset/)
-
 - [Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth)
-
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347)
-
-- [The Lane Marker Dataset](<https://unsupervised-llamas.com/llamas/>)
+- [The Lane Marker Dataset](https://unsupervised-llamas.com/llamas/)
+- [DET](https://spritea.github.io/DET/)
 
 # Contact & Feedback
 
