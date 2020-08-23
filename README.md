@@ -20,6 +20,8 @@ Lane Detection
 
 ## 2020
 
+[Towards Lightweight Lane Detection by Optimizing Spatial Embedding](https://arxiv.org/abs/2008.08311)  ECCV2020 Workshop 
+
 [Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor](https://arxiv.org/abs/2008.06204)
 
 [Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs](https://arxiv.org/abs/2008.03922)
