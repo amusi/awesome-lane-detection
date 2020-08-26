@@ -20,7 +20,9 @@ Lane Detection
 
 ## 2020
 
-[Towards Lightweight Lane Detection by Optimizing Spatial Embedding](https://arxiv.org/abs/2008.08311)  ECCV2020 Workshop 
+[CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147)  ECCV 2020  [Datasets](https://github.com/xbjxh/curvelanes)
+
+[Towards Lightweight Lane Detection by Optimizing Spatial Embedding](https://arxiv.org/abs/2008.08311)  ECCV 2020 Workshop 
 
 [Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor](https://arxiv.org/abs/2008.06204)
 
@@ -169,6 +171,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347)
 - [The Lane Marker Dataset](https://unsupervised-llamas.com/llamas/)
 - [DET](https://spritea.github.io/DET/)
+- [CurveLanes](https://github.com/xbjxh/curvelanes)
 
 # Contact & Feedback
 
