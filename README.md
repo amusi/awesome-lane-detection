@@ -168,6 +168,8 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 [Tutorial: Build a lane detector](https://towardsdatascience.com/tutorial-build-a-lane-detector-679fd8953132)
 
+[Online course: Algorithms for Automated Driving](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html)
+
 # Datasets
 
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark)
