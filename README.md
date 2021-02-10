@@ -18,6 +18,10 @@ Lane Detection
 
 # Paper
 
+## 2021
+
+[End-to-End Deep Learning of Lane Detection and Path Prediction for Real-Time Autonomous Driving](https://arxiv.org/abs/2102.04738)
+
 ## 2020
 
 [End-to-end Lane Shape Prediction with Transformers](https://arxiv.org/abs/2011.04233)  [github](https://github.com/liuruijin17/LSTR)  WACV 2021
