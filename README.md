@@ -5,6 +5,7 @@ Lane Detection
 
 [Paper](#Paper)
 
+- [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
@@ -19,6 +20,8 @@ Lane Detection
 # Paper
 
 ## 2021
+
+[Robust Lane Detection via Expanded Self Attention](https://arxiv.org/abs/2102.07037)
 
 [End-to-End Deep Learning of Lane Detection and Path Prediction for Real-Time Autonomous Driving](https://arxiv.org/abs/2102.04738)
 
