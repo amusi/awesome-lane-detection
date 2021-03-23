@@ -21,6 +21,8 @@ Lane Detection
 
 ## 2021
 
+[LaneAF: Robust Multi-Lane Detection with Affinity Fields](https://arxiv.org/abs/2103.12040)  [github](https://github.com/sel118/LaneAF)
+
 [Robust Lane Detection via Expanded Self Attention](https://arxiv.org/abs/2102.07037)
 
 [End-to-End Deep Learning of Lane Detection and Path Prediction for Real-Time Autonomous Driving](https://arxiv.org/abs/2102.04738)
