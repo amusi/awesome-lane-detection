@@ -37,7 +37,7 @@ Lane Detection
 
 [RONELD: Robust Neural Network Output Enhancement for Active Lane Detection](https://arxiv.org/abs/2010.09548)  [github](https://github.com/czming/RONELD-Lane-Detection)  ICPR 2020
 
-[RESA: Recurrent Feature-Shift Aggregator for Lane Detection](https://arxiv.org/abs/2008.13719)  AAAI 2011
+[RESA: Recurrent Feature-Shift Aggregator for Lane Detection](https://arxiv.org/abs/2008.13719)   [github](https://github.com/ZJULearning/resa)  AAAI 2021
 
 [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147)  ECCV 2020  [Datasets](https://github.com/xbjxh/curvelanes)
 
