@@ -21,6 +21,8 @@ Lane Detection
 
 ## 2021
 
+[YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
+
 [LaneAF: Robust Multi-Lane Detection with Affinity Fields](https://arxiv.org/abs/2103.12040)  [github](https://github.com/sel118/LaneAF)
 
 [Robust Lane Detection via Expanded Self Attention](https://arxiv.org/abs/2102.07037)
