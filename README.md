@@ -21,6 +21,8 @@ Lane Detection
 
 ## 2021
 
+[Keep your Eyes on the Lane: Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) CVPR 2021
+
 [YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
 
 [LaneAF: Robust Multi-Lane Detection with Affinity Fields](https://arxiv.org/abs/2103.12040)  [github](https://github.com/sel118/LaneAF)
@@ -34,8 +36,6 @@ Lane Detection
 [End-to-end Lane Shape Prediction with Transformers](https://arxiv.org/abs/2011.04233)  [github](https://github.com/liuruijin17/LSTR)  WACV 2021
 
 [3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation](https://arxiv.org/abs/2011.01535)
-
-[Keep your Eyes on the Lane: Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT)
 
 [RONELD: Robust Neural Network Output Enhancement for Active Lane Detection](https://arxiv.org/abs/2010.09548)  [github](https://github.com/czming/RONELD-Lane-Detection)  ICPR 2020
 
@@ -59,7 +59,7 @@ Lane Detection
 
 [Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection)  ECCV 2020
 
-[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet)  [github](https://github.com/lucastabelini/PolyLaneNet)
+[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet)  [github](https://github.com/lucastabelini/PolyLaneNet) ICPR 2020
 
 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304)  [github](https://github.com/cardwing/Codes-for-IntRA-KD)  CVPR 2020
 
