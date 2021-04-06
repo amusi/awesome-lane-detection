@@ -167,6 +167,8 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 <https://github.com/shawshany/Advance_LaneFinding>
 
+<https://github.com/voldemortX/pytorch-auto-drive>: A PyTorch Codebase for Popular Lane Detection Methods
+
 # Blog/Tutorial
 
 [Lane Detection with Deep Learning (Part 1)](https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7)
