@@ -21,6 +21,8 @@ Lane Detection
 
 ## 2021
 
+[On Robustness of Lane Detection Models to Physical-World Adversarial Attacks in Autonomous Driving](https://arxiv.org/abs/2107.02488)
+
 [Structure Guided Lane Detection](https://arxiv.org/abs/2105.05403)  IJCAI 2021
 
 [CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003)
