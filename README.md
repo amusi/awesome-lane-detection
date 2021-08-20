@@ -21,6 +21,8 @@ Lane Detection
 
 ## 2021
 
+[VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net)  [dataset](https://github.com/yujun0-0/MMA-Net)  ICCV 2021
+
 [On Robustness of Lane Detection Models to Physical-World Adversarial Attacks in Autonomous Driving](https://arxiv.org/abs/2107.02488)
 
 [Structure Guided Lane Detection](https://arxiv.org/abs/2105.05403)  IJCAI 2021
@@ -203,6 +205,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [The Lane Marker Dataset](https://unsupervised-llamas.com/llamas/)
 - [DET](https://spritea.github.io/DET/)
 - [CurveLanes](https://github.com/xbjxh/curvelanes)
+- [VIL-100](https://github.com/yujun0-0/MMA-Net)  ICCV 2021
 
 # Contact & Feedback
 
