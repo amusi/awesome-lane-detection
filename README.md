@@ -25,6 +25,8 @@ Lane Detection
 
 [VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net)  [dataset](https://github.com/yujun0-0/MMA-Net)  ICCV 2021
 
+[ContinuityLearner: Geometric Continuity Feature Learning for Lane Segmentation](https://arxiv.org/abs/2108.03507)
+
 [On Robustness of Lane Detection Models to Physical-World Adversarial Attacks in Autonomous Driving](https://arxiv.org/abs/2107.02488)
 
 [Structure Guided Lane Detection](https://arxiv.org/abs/2105.05403)  IJCAI 2021
