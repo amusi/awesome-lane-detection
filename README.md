@@ -45,6 +45,8 @@ Lane Detection
 
 [End-to-End Deep Learning of Lane Detection and Path Prediction for Real-Time Autonomous Driving](https://arxiv.org/abs/2102.04738)
 
+[RS-Lane: A Robust Lane Detection Method Based on ResNeSt and Self-Attention Distillation for Challenging Traffic Situations](https://www.hindawi.com/journals/jat/2021/7544355/) [github](https://github.com/YingWu5/RS-Lane)
+
 ## 2020
 
 [End-to-end Lane Shape Prediction with Transformers](https://arxiv.org/abs/2011.04233)  [github](https://github.com/liuruijin17/LSTR)  WACV 2021
