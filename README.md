@@ -21,6 +21,8 @@ Lane Detection
 
 ## 2021
 
+[SwiftLane: Towards Fast and Efficient Lane Detection](https://arxiv.org/abs/2110.11779)  ICMLA 2021
+
 [A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection](https://arxiv.org/abs/2110.04079)
 
 [YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP)
