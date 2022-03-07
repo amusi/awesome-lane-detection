@@ -5,6 +5,7 @@ Lane Detection
 
 [Paper](#Paper)
 
+- [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
@@ -18,6 +19,10 @@ Lane Detection
 [Datasets](#Datasets)
 
 # Paper
+
+## 2022
+
+[Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive)  CVPR 2022
 
 ## 2021
 
@@ -158,6 +163,8 @@ Lane Detection
 [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPGNet_Vanishing_Point_ICCV_2017_paper.html) ICCV 2017 [github](https://github.com/SeokjuLee/VPGNet)
 
 # Code
+
+https://github.com/voldemortX/pytorch-auto-drive
 
 [Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
 
