@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[AtrousFormer：Lane Detection with Versatile AtrousFormer and Local Semantic Guidance](https://arxiv.org/abs/2203.04067)
+
 [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive)  CVPR 2022
 
 ## 2021
