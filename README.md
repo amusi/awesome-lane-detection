@@ -26,6 +26,8 @@ Lane Detection
 
 [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive)  CVPR 2022
 
+[Laneformer: Object-Aware Row-Column Transformers for Lane Detection](https://www.aaai.org/AAAI22Papers/AAAI-6756.HanJ.pdf)  AAAI 2022
+
 ## 2021
 
 [SwiftLane: Towards Fast and Efficient Lane Detection](https://arxiv.org/abs/2110.11779)  ICMLA 2021
