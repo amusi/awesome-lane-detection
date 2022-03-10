@@ -28,6 +28,8 @@ Lane Detection
 
 [Laneformer: Object-Aware Row-Column Transformers for Lane Detection](https://www.aaai.org/AAAI22Papers/AAAI-6756.HanJ.pdf)  AAAI 2022
 
+[RONELDv2: A faster, improved lane tracking method](https://arxiv.org/abs/2202.13137)
+
 ## 2021
 
 [SwiftLane: Towards Fast and Efficient Lane Detection](https://arxiv.org/abs/2110.11779)  ICMLA 2021
