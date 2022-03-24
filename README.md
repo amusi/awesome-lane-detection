@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[Lane detection with Position Embedding](https://arxiv.org/abs/2203.12301)
+
 [PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark](https://arxiv.org/abs/2203.11089)  [OpenLane Dataset](https://github.com/OpenPerceptionX/OpenLane)
 
 [AtrousFormer：Lane Detection with Versatile AtrousFormer and Local Semantic Guidance](https://arxiv.org/abs/2203.04067)
