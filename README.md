@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[Towards Driving-Oriented Metric for Lane Detection Models](https://arxiv.org/abs/2203.16851)  CVPR 2022
+
 [CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022
 
 [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive)  CVPR 2022
