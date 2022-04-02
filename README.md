@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/abs/2203.15302)  [github](https://github.com/dongkwonjin/Eigenlanes)
+
 [Towards Driving-Oriented Metric for Lane Detection Models](https://arxiv.org/abs/2203.16851)  [Comma2k19 LD Dataset](https://www.kaggle.com/datasets/tkm2261/comma2k19-ld)  CVPR 2022
 
 [CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022
