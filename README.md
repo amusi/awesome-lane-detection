@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet)  CVPR 2022
+
 [Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/abs/2203.15302)  [github](https://github.com/dongkwonjin/Eigenlanes)   [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
 
 [Towards Driving-Oriented Metric for Lane Detection Models](https://arxiv.org/abs/2203.16851)  [Comma2k19 LD Dataset](https://www.kaggle.com/datasets/tkm2261/comma2k19-ld)  CVPR 2022
