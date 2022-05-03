@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)  [Homepage](https://once-3dlanes.github.io/)  [github](https://github.com/once-3dlanes/once_3dlanes_benchmark)  [Dataset](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
+
 [A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet)  CVPR 2022
 
 [Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/abs/2203.15302)  [github](https://github.com/dongkwonjin/Eigenlanes)   [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
@@ -242,6 +244,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [Comma2k19 LD](https://www.kaggle.com/datasets/tkm2261/comma2k19-ld)  CVPR 2022
 - [OpenLane: 3D lane datasets](https://github.com/OpenPerceptionX/OpenLane)  2022
 - [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
+- [ONCE-3DLanes](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
 
 # Contact & Feedback
 
