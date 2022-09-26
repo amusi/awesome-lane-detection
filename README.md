@@ -22,6 +22,8 @@ Lane Detection
 
 ## 2022
 
+[WS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels](https://arxiv.org/abs/2209.11523)
+
 [CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention](https://arxiv.org/abs/2209.07989)
 
 [PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer]( https://arxiv.org/abs/2209.06994 )  [github](https://github.com/vincentqqb/PriorLane)
