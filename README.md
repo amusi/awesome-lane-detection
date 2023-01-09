@@ -5,6 +5,7 @@ Lane Detection
 
 [Paper](#Paper)
 
+- [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
@@ -19,6 +20,10 @@ Lane Detection
 [Datasets](#Datasets)
 
 # Paper
+
+## 2023
+
+[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)
 
 ## 2022
 
