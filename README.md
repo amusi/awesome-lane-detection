@@ -23,6 +23,8 @@ Lane Detection
 
 ## 2023
 
+[GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping](https://arxiv.org/abs/2307.09472)
+
 [An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection](https://arxiv.org/abs/2306.04927)
 
 [BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det)  CVPR 2023
