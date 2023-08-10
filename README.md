@@ -23,6 +23,8 @@ Lane Detection
 
 ## 2023
 
+[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR)  ICCV 2023
+
 [GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping](https://arxiv.org/abs/2307.09472)
 
 [An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection](https://arxiv.org/abs/2306.04927)
