@@ -23,6 +23,8 @@ Lane Detection
 
 ## 2023
 
+[Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD)  ICCV 2023
+
 [LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR)  ICCV 2023
 
 [GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping](https://arxiv.org/abs/2307.09472)
@@ -278,6 +280,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [OpenLane: 3D lane datasets](https://github.com/OpenPerceptionX/OpenLane)  ECCV 2022 Oral
 - [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
 - [ONCE-3DLanes](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
+- [OpenLane-V](https://github.com/dongkwonjin/RVLD)
 
 # Contact & Feedback
 
