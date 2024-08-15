@@ -20,9 +20,11 @@ Continual improvements are being made to this repository. If you come across any
 
 [[Arxiv 2004](https://arxiv.org/abs/2004.11757)] **UFLD:** Ultra Fast Structure-Aware Deep Lane Detection. [Zequn Qin](https://dblp.uni-trier.de/pid/204/2939.html) et al. [ECCV 2020](https://doi.org/10.1007/978-3-030-58586-0_17) [Code](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ![Stars](https://img.shields.io/github/stars/cfzd/Ultra-Fast-Lane-Detection)
 
-[[Arxiv 2105](https://arxiv.org/abs/2105.05003)] **CondLaneNet:** a Top-to-down Lane Detection Framework Based on Conditional Convolution. [Lizhe Liu](https://dblp.uni-trier.de/pid/193/8041.html) et al. [ICCV 2021](https://doi.org/10.1109/ICCV48922.2021.00375). [Code](https://github.com/aliyun/conditional-lane-detection)![Stars](https://img.shields.io/github/stars/aliyun/conditional-lane-detection)
+[[Arxiv 2105](https://arxiv.org/abs/2105.05003)] **CondLaneNet:** a Top-to-down Lane Detection Framework Based on Conditional Convolution. [Lizhe Liu](https://dblp.uni-trier.de/pid/193/8041.html) <span>et al.</span>
+ [ICCV 2021](https://doi.org/10.1109/ICCV48922.2021.00375). [Code](https://github.com/aliyun/conditional-lane-detection)![Stars](https://img.shields.io/github/stars/aliyun/conditional-lane-detection)
 
-[[Arxiv 2206](https://arxiv.org/abs/2206.07389)] **UFLDv2:** Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification. [Zequn Qin](https://dblp.uni-trier.de/pid/204/2939.html) et al. [TPAMI 2022](https://ieeexplore.ieee.org/document/9795098). [Code](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2)![Stars](https://img.shields.io/github/stars/cfzd/Ultra-Fast-Lane-Detection-v2)
+[[Arxiv 2206](https://arxiv.org/abs/2206.07389)] **UFLDv2:** Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification. [Zequn Qin](https://dblp.uni-trier.de/pid/204/2939.html) <span>et al.</span>
+ [TPAMI 2022](https://ieeexplore.ieee.org/document/9795098). [Code](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2)![Stars](https://img.shields.io/github/stars/cfzd/Ultra-Fast-Lane-Detection-v2)
 
 ### Segmentation-Based: *Instance Segmentation.*
 
