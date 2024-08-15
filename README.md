@@ -20,6 +20,11 @@ Continual improvements are being made to this repository. If you come across any
 
 ([Arxiv 2004](https://arxiv.org/abs/2004.11757)) **UFLD:** Ultra Fast Structure-Aware Deep Lane Detection. [Zequn Qin](https://dblp.uni-trier.de/pid/204/2939.html) et al. [ECCV 2020](https://doi.org/10.1007/978-3-030-58586-0_17)[Code](https://github.com/cfzd/Ultra-Fast-Lane-Detection)![Stars](https://img.shields.io/github/stars/cfzd/Ultra-Fast-Lane-Detection)
 
+<<<<<<< HEAD
+([Arxiv 2105](https://arxiv.org/abs/2105.05003)) **CondLaneNet:** a Top-to-down Lane Detection Framework Based on Conditional Convolution. [Lizhe Liu](https://dblp.uni-trier.de/pid/193/8041.html) et al. [ICCV 2021](https://doi.org/10.1109/ICCV48922.2021.00375). [Code](https://github.com/aliyun/conditional-lane-detection)![Stars](https://img.shields.io/github/stars/aliyun/conditional-lane-detection)
+
+([Arxiv 2206](https://arxiv.org/abs/2206.07389)) **UFLDv2:** Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification. [Zequn Qin](https://dblp.uni-trier.de/pid/204/2939.html) et al. [TPAMI 2022](https://ieeexplore.ieee.org/document/9795098). [Code](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2)![Stars](https://img.shields.io/github/stars/cfzd/Ultra-Fast-Lane-Detection-v2)
+
 ([Arxiv 2105](https://arxiv.org/abs/2105.05003)) **CondLaneNet:** a Top-to-down Lane Detection Framework Based on Conditional Convolution. [Lizhe Liu](https://dblp.uni-trier.de/pid/193/8041.html) et al. [ICCV 2021](https://doi.org/10.1109/ICCV48922.2021.00375). [Code](https://github.com/aliyun/conditional-lane-detection)![Stars](https://img.shields.io/github/stars/aliyun/conditional-lane-detection)
 
 ([Arxiv 2206](https://arxiv.org/abs/2206.07389)) **UFLDv2:** Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification. [Zequn Qin](https://dblp.uni-trier.de/pid/204/2939.html) et al. [TPAMI 2022](https://ieeexplore.ieee.org/document/9795098). [Code](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2)![Stars](https://img.shields.io/github/stars/cfzd/Ultra-Fast-Lane-Detection-v2)
@@ -60,9 +65,9 @@ Continual improvements are being made to this repository. If you come across any
 
 ([Arxiv 2301](https://arxiv.org/abs/2301.06910)) **BSNet:** Lane Detection via Draw B-spline Curves Nearby. [Haoxin Chen](https://dblp.uni-trier.de/pid/271/5537.html) et al.
 
-([Arxiv2305](https://arxiv.org/abs/2305.00675)) **O2Former:** End-to-End Lane Detection with One-to-Several Transformer. [Kunyang Zhou](https://dblp.uni-trier.de/pid/346/0680.html) et al. [Code](https://github.com/zkyseu/O2SFormer)![Stars](https://img.shields.io/github/stars/zkyseu/O2SFormer)
+([Arxiv 2305](https://arxiv.org/abs/2305.00675)) **O2Former:** End-to-End Lane Detection with One-to-Several Transformer. [Kunyang Zhou](https://dblp.uni-trier.de/pid/346/0680.html) et al. [Code](https://github.com/zkyseu/O2SFormer)![Stars](https://img.shields.io/github/stars/zkyseu/O2SFormer)
 
-([Arxiv2308](https://arxiv.org/abs/2308.10481)) **ADNet:** Lane Shape Prediction via Anchor Decomposition. [Lingyu Xiao](https://dblp.uni-trier.de/pid/355/3184.html) et al. [ICCV2023](https://doi.org/10.1109/ICCV51070.2023.00589). [Code](https://github.com/sephirex-x/adnet)![Stars](https://img.shields.io/github/stars/sephirex-x/adnet)
+([Arxiv  2308](https://arxiv.org/abs/2308.10481)) **ADNet:** Lane Shape Prediction via Anchor Decomposition. [Lingyu Xiao](https://dblp.uni-trier.de/pid/355/3184.html) et al. [ICCV 2023](https://doi.org/10.1109/ICCV51070.2023.00589). [Code](https://github.com/sephirex-x/adnet)![Stars](https://img.shields.io/github/stars/sephirex-x/adnet)
 
 ## 3D Lane Detection
 
