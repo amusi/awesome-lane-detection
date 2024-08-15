@@ -1,10 +1,29 @@
-![Stars](https://img.shields.io/github/stars/voldemortX/pytorch-auto-drive)![Stars](https://img.shields.io/github/stars/voldemortX/pytorch-auto-drive)# awesome-lane-detection
+# awesome-lane-detection
 
 This repository contains content related to 2D and 3D lane detection, as well as video lane detection.
-
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
 
-[toc]
+## Table of Contents
+- [awesome-lane-detection](#awesome-lane-detection)
+  - [Table of Contents](#table-of-contents)
+  - [Activities](#activities)
+  - [2D Lane Detection](#2d-lane-detection)
+    - [Segmentation-Based: *Traditional Semantic Segmentation.*](#segmentation-based-traditional-semantic-segmentation)
+    - [Segmentation-Based: *Grid Semantic Segmentation.*](#segmentation-based-grid-semantic-segmentation)
+    - [Segmentation-Based: *Instance Segmentation.*](#segmentation-based-instance-segmentation)
+    - [Detection-Based: *Keypoints Detection.*](#detection-based-keypoints-detection)
+    - [Detection-Based: *Parametric Curve Detection.*](#detection-based-parametric-curve-detection)
+    - [Detection-Based: Line-*Proposal\&Line-Anchor Detection.*](#detection-based-line-proposalline-anchor-detection)
+  - [3D Lane Detection](#3d-lane-detection)
+    - [Mono Deteciton?](#mono-deteciton)
+    - [Mutli-View Detection?](#mutli-view-detection)
+    - [Mapless Driving](#mapless-driving)
+  - [Video Lane Detection](#video-lane-detection)
+    - [Segmentation-Based](#segmentation-based)
+    - [Detection-Based](#detection-based)
+  - [Datasets](#datasets)
+  - [Survey](#survey)
+  - [Articles](#articles)
 
 ## Activities
 
@@ -14,7 +33,7 @@ Continual improvements are being made to this repository. If you come across any
 
 ([Arxiv 1712](https://arxiv.org/abs/1712.06080)) **SCNN:** Spatial as Deep: Spatial CNN for Traffic Scene Understanding. [Xingang Pan](https://dblp.uni-trier.de/search/author?author=Xingang%20Pan) et al. [AAAI 2018](https://ojs.aaai.org/index.php/AAAI/article/view/12301). [Code](https://github.com/XingangPan/SCNN) ![Stars](https://img.shields.io/github/stars/XingangPan/SCNN)
 
-([Arxiv 2008](https://arxiv.org/abs/2008.13719)) **RESA:** Recurrent Feature-Shift Aggregator for Lane Detection.[Tu Zheng](https://dblp.uni-trier.de/pid/229/4199.html) et al. [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16469). [Code](https://github.com/ZJULearning/resa)![Stars](https://img.shields.io/github/stars/ZJULearning/resa)
+([Arxiv 2008](https://arxiv.org/abs/2008.13719)) **RESA:** Recurrent Feature-Shift Aggregator for Lane Detection. [Tu Zheng](https://dblp.uni-trier.de/pid/229/4199.html) et al. [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16469). [Code](https://github.com/ZJULearning/resa)![Stars](https://img.shields.io/github/stars/ZJULearning/resa)
 
 ### Segmentation-Based: *Grid Semantic Segmentation.*
 
